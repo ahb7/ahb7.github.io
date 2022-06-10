@@ -197,6 +197,7 @@
 						.css('transition', 'none');
 
 	// Intro.
+	/*
 		var $intro = $('#intro');
 
 		if ($intro.length > 0) {
@@ -214,7 +215,7 @@
 
 					}).trigger('resize.ie-intro-fix');
 				}
-/*
+
 			// Hide intro on scroll (> small).
 				breakpoints.on('>small', function() {
 
@@ -252,8 +253,8 @@
 					});
 
 			});
-			*/
 
-		}
+		}				
+		*/
 
 })(jQuery);
