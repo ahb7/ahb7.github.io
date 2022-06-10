@@ -214,7 +214,7 @@
 
 					}).trigger('resize.ie-intro-fix');
 				}
-
+/*
 			// Hide intro on scroll (> small).
 				breakpoints.on('>small', function() {
 
@@ -252,6 +252,7 @@
 					});
 
 			});
+			*/
 
 		}
 
