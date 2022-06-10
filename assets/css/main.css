@@ -3270,7 +3270,9 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		
+		body.is-preload #wrapper.fade-in:before {
+			opacity: 1;
+		}
 
 		@media screen and (orientation: portrait) {
 
